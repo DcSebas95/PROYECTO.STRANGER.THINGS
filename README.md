@@ -8,6 +8,8 @@
 
 ![Status](https://user-images.githubusercontent.com/113159590/191598359-be927ae0-a2fb-46cc-9698-493a20967c89.png)
 
+![VIDEO-QR](https://user-images.githubusercontent.com/113159590/191610242-c094055f-b556-4c01-b4fc-a17b7a8062b1.png)
+
 
 ##Índice
 
