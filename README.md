@@ -17,12 +17,6 @@
 
 *[Insignias](#insignias)
 
-*[Índice](#índice)
-
-        Crud en LAMP - INNOVACOL
-        Persistencia de Sesion PHP - LoginST
-        Clases, objetos, metodos, atributos en JAVA - StrangerThingsJAVA
-
 *[Descripción del proyecto](#descripción-del-proyecto)
 
 El servicio web tendrá como objetivo ser una interfaz amigable y intuitiva para el usuario, para esto el usuario deberá ingresar atreves de una página web donde deberá realizar un registro ingresando datos personales como el nombre, el apellido, correo electrónico y crear una contraseña esto con el fin de poder enviar información de la pagina por medio del correo electrónico,
